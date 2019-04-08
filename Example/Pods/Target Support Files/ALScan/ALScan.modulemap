@@ -1,0 +1,6 @@
+framework module ALScan {
+  umbrella header "ALScan-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ALScan (0.1.0)
+
+DEPENDENCIES:
+  - ALScan (from `../`)
+
+EXTERNAL SOURCES:
+  ALScan:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ALScan: 2b8237a630d23e08df21a352422bb2ebf4ac5985
+
+PODFILE CHECKSUM: 74266cb5a33bbac9562229933d4ad195ac3dab42
+
+COCOAPODS: 1.4.0

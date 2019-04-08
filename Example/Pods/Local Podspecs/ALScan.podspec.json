@@ -1,0 +1,22 @@
+{
+  "name": "ALScan",
+  "version": "0.1.0",
+  "summary": "A short description of ALScan.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/farabis4m/ALScan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "farabis4m": "alfred@farabi.ae"
+  },
+  "source": {
+    "git": "https://github.com/farabis4m/ALScan.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ALScan/Classes/**/*"
+}
